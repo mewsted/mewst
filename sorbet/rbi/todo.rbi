@@ -5,6 +5,7 @@
 # typed: false
 
 module ::RedisClient::PIDCache::CoreExt; end
+module ActionDispatch::SystemTestCase; end
 module Capybara::Cuprite::Driver; end
 module V1::FollowForm; end
 module V1::PostForm; end
